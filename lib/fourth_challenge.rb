@@ -6,7 +6,7 @@ def fourth_challenge
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => [
         benvolio = {name: "Benvolio", age: "17", attidude: "worried"},
-        mercutio = {name: "Mercutio", age: "18", attidude: "hot-headed"
+        mercutio = {name: "Mercutio", age: "18", attidude: "hot-headed"}
       ]
    }, 
    :capulet => {
@@ -15,7 +15,7 @@ def fourth_challenge
       :heroine => {name: "Juliet", age: "15", status: "alive"},
       :heroine_friends => [
         steven = {name: "Steven", age: "30", attidude: "confused"},
-        nurse = {name: "Nurse", age: "44", attidude: "worried"
+        nurse = {name: "Nurse", age: "44", attidude: "worried"}
       ]
    }
 }
